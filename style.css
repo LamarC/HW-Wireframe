@@ -23,9 +23,9 @@ nav {
 
 #box1 {
     background-color: #ebebeb;
-    width: 475px;
+    width: 495px;
     padding: 20px;
-    margin: 0;
+    margin-bottom: 10px;
     float: left;
 }
 
@@ -46,22 +46,17 @@ nav {
 
 .box2 {
     background-color: #ebebeb;
-    width: 430px;
+    width: 25px;
     padding: 20px;
     margin: 0;
     float: left;
 }
 
-#middle {
-
-    overflow: auto;
-}
-
 aside {
     float: right;
     background-color: #ebebeb;
-    width: 495px;
-
+    width: 395px;
+    height: 311px;
 }
 
 footer {
